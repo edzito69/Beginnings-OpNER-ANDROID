@@ -20,6 +20,6 @@ Play EarthBound Beginnings Remake on your phone, with layouts adapted for both p
 
 Supports 60 and 30 FPS presentation modes. Actual performance depends on your device.
 
-Created by Edzito for the ROM hack by the EBBR Team and PK Hack. Independent and unaffiliated. No ROM is included.
+Created by Edzito for the ROM hack by EBBR Team and PK Hack. Independent and unaffiliated. No ROM is included. (CODEX was used in this project.)
 
 THANK YOU EBBR TEAM AND PK HACK! <3
